@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.a5fca0c8.chunk.css",
-  "main.js": "/static/js/main.80e7bf68.chunk.js",
-  "main.js.map": "/static/js/main.80e7bf68.chunk.js.map",
+  "main.css": "/static/css/main.ddfc1762.chunk.css",
+  "main.js": "/static/js/main.5d506ef4.chunk.js",
+  "main.js.map": "/static/js/main.5d506ef4.chunk.js.map",
   "static/css/1.cd453564.chunk.css": "/static/css/1.cd453564.chunk.css",
   "static/js/1.9fc8f101.chunk.js": "/static/js/1.9fc8f101.chunk.js",
   "static/js/1.9fc8f101.chunk.js.map": "/static/js/1.9fc8f101.chunk.js.map",
@@ -22,8 +22,8 @@
   "static/media/Help.png": "/static/media/Help.3d282b52.png",
   "static/media/Umass_White.jpg": "/static/media/Umass_White.07c797b2.jpg",
   "static/css/1.cd453564.chunk.css.map": "/static/css/1.cd453564.chunk.css.map",
-  "static/css/main.a5fca0c8.chunk.css.map": "/static/css/main.a5fca0c8.chunk.css.map",
+  "static/css/main.ddfc1762.chunk.css.map": "/static/css/main.ddfc1762.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.3cd7a55d3d480df2c2ed1ea4827c53ed.js": "/precache-manifest.3cd7a55d3d480df2c2ed1ea4827c53ed.js",
+  "precache-manifest.02ec736916fd081032ac12e808e5b1a1.js": "/precache-manifest.02ec736916fd081032ac12e808e5b1a1.js",
   "service-worker.js": "/service-worker.js"
 }

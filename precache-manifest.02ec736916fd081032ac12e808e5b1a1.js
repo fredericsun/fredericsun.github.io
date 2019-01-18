@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/Route 66 Road Sign.c4133116.jpg"
   },
   {
-    "revision": "80e7bf686ff947f57b6b",
-    "url": "/static/css/main.a5fca0c8.chunk.css"
+    "revision": "5d506ef44d2f4701c2e3",
+    "url": "/static/css/main.ddfc1762.chunk.css"
   },
   {
     "revision": "39985ddec6679e92b2f8a7b2fa47688a",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/static/media/Route 66 Bottle Soda.c3aa7384.jpg"
   },
   {
-    "revision": "80e7bf686ff947f57b6b",
-    "url": "/static/js/main.80e7bf68.chunk.js"
+    "revision": "5d506ef44d2f4701c2e3",
+    "url": "/static/js/main.5d506ef4.chunk.js"
   },
   {
     "revision": "e8c972188db9044eea860f851143ad1a",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.cd453564.chunk.css"
   },
   {
-    "revision": "d2ce9f9fe524424b38237d4758ba6fc1",
+    "revision": "2072f2072f8f98fba756ff69e5f194ac",
     "url": "/index.html"
   }
 ];
