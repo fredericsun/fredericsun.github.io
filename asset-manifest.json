@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.7f34f1ed.chunk.css",
-  "main.js": "/static/js/main.071344b0.chunk.js",
-  "main.js.map": "/static/js/main.071344b0.chunk.js.map",
+  "main.js": "/static/js/main.155aca4a.chunk.js",
+  "main.js.map": "/static/js/main.155aca4a.chunk.js.map",
   "static/css/1.a50da18f.chunk.css": "/static/css/1.a50da18f.chunk.css",
   "static/js/1.fa06c88e.chunk.js": "/static/js/1.fa06c88e.chunk.js",
   "static/js/1.fa06c88e.chunk.js.map": "/static/js/1.fa06c88e.chunk.js.map",
@@ -23,9 +23,9 @@
   "static/media/HRI.jpg": "/static/media/HRI.5eed1637.jpg",
   "static/media/Umass_White.jpg": "/static/media/Umass_White.07c797b2.jpg",
   "static/media/Yue.jpg": "/static/media/Yue.3fac9350.jpg",
-  "static/css/1.a50da18f.chunk.css.map": "/static/css/1.a50da18f.chunk.css.map",
   "static/css/main.7f34f1ed.chunk.css.map": "/static/css/main.7f34f1ed.chunk.css.map",
+  "static/css/1.a50da18f.chunk.css.map": "/static/css/1.a50da18f.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.55fdebf7ce6596d28735aaece0ab140d.js": "/precache-manifest.55fdebf7ce6596d28735aaece0ab140d.js",
+  "precache-manifest.1854b880c838ed71db3dbbcf6ced5140.js": "/precache-manifest.1854b880c838ed71db3dbbcf6ced5140.js",
   "service-worker.js": "/service-worker.js"
 }
